@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: Georgia, sans-serif;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -16,12 +16,12 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: Georgia, sans-serif;
+  font-family: "Patua One", sans-serif;
   font-weight: bold;
 }
 
 figcaption {
-  font-size: .9rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
