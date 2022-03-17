@@ -17,13 +17,14 @@ h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: Georgia, sans-serif;
+  font-weight: bold;
 }
 
 figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
-  font-weight: bold;
+
 }
 
 nav {
