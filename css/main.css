@@ -21,9 +21,10 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: .87rem;
+  font-size: .88rem;
   font-style: italic;
   text-align: center;
+  font-family: Georgia, sans-serif;
 }
 
 nav {
